@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8wxNxIrl1Bx8RzgoXmw7delh/jiVIjNKVNKCsnTYAQNpWYh0m4dG+ZLyq1lrXeYhpzsUBHMFuYaf8EXr3YTj0A==",
+  "success": true,
+  "projectFilePath": "D:\\Dokumenty\\Studia\\07.SEMESTR VII\\GRAFIKA KOMP\\zad1 +2\\zad1 - paint\\zad1 - paint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Strix\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Strix\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

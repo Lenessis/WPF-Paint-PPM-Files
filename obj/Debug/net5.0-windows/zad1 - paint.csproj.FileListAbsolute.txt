@@ -1,0 +1,64 @@
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\bin\Debug\net5.0-windows\zad1 - paint.exe
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\bin\Debug\net5.0-windows\zad1 - paint.deps.json
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\bin\Debug\net5.0-windows\zad1 - paint.runtimeconfig.json
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\bin\Debug\net5.0-windows\zad1 - paint.runtimeconfig.dev.json
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\bin\Debug\net5.0-windows\zad1 - paint.dll
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\bin\Debug\net5.0-windows\ref\zad1 - paint.dll
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\bin\Debug\net5.0-windows\zad1 - paint.pdb
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\obj\Debug\net5.0-windows\Templates.baml
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\obj\Debug\net5.0-windows\App.g.cs
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint_MarkupCompile.cache
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint_MarkupCompile.lref
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\obj\Debug\net5.0-windows\App.baml
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint.g.resources
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint.AssemblyInfoInputs.cache
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint.AssemblyInfo.cs
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint.csproj.CoreCompileInputs.cache
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint.dll
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\obj\Debug\net5.0-windows\ref\zad1 - paint.dll
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint.pdb
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint.genruntimeconfig.cache
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint.csproj.AssemblyReference.cache
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\obj\Debug\net5.0-windows\ImagePPM.g.cs
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\obj\Debug\net5.0-windows\ImagePPM.baml
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint.csproj.CopyComplete
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\bin\Debug\net5.0-windows\zad1 - paint.exe
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\bin\Debug\net5.0-windows\zad1 - paint.deps.json
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\bin\Debug\net5.0-windows\zad1 - paint.runtimeconfig.json
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\bin\Debug\net5.0-windows\zad1 - paint.runtimeconfig.dev.json
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\bin\Debug\net5.0-windows\zad1 - paint.dll
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\bin\Debug\net5.0-windows\ref\zad1 - paint.dll
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\bin\Debug\net5.0-windows\zad1 - paint.pdb
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint.csproj.AssemblyReference.cache
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\obj\Debug\net5.0-windows\Templates.baml
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\obj\Debug\net5.0-windows\ImagePPM.g.cs
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\obj\Debug\net5.0-windows\App.g.cs
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint_MarkupCompile.cache
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint_MarkupCompile.lref
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\obj\Debug\net5.0-windows\App.baml
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\obj\Debug\net5.0-windows\ImagePPM.baml
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint.g.resources
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint.AssemblyInfoInputs.cache
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint.AssemblyInfo.cs
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint.csproj.CoreCompileInputs.cache
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint.csproj.CopyComplete
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint.dll
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\obj\Debug\net5.0-windows\ref\zad1 - paint.dll
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint.pdb
+D:\Dokumenty\Studia\07.SEMESTR VII\GRAFIKA KOMP\zad1 +2\zad1 - paint\obj\Debug\net5.0-windows\zad1 - paint.genruntimeconfig.cache

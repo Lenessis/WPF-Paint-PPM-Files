@@ -1,0 +1,79 @@
+﻿<Window x:Class="zad1___paint.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zad1___paint"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen"
+        >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Background="#323336" Panel.ZIndex="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Button Name="drawingTool"
+                    Grid.Column="0"
+                    Style="{StaticResource MenuButton}"
+                    Click="draw_Click">Draw</Button>
+            <Button Name="rectangleTool"
+                    Grid.Column="1"
+                    Style="{StaticResource MenuButton}"
+                    Click="rectangle_Click">Rectangle</Button>
+            <Button Name="eclipseTool"
+                    Grid.Column="2"
+                    Style="{StaticResource MenuButton}"
+                    Click="elipse_Click">Elipse</Button>
+            <Button Name="triangleTool"
+                    Grid.Column="3"
+                    Style="{StaticResource MenuButton}"
+                    Click="triangle_Click">Triangle</Button>
+            <Button Name="lineTool"
+                    Grid.Column="4"
+                    Style="{StaticResource MenuButton}"
+                    Click="line_Click">Line</Button>
+            <Button Name="textTool"
+                    Grid.Column="5"
+                    Style="{StaticResource MenuButton}"
+                    Click="text_Click">Text</Button>
+            <Button Name="saveBtn"
+                    Grid.Column="6"
+                    Style="{StaticResource MenuButton}"
+                    Click="save_Click">Save JPG</Button>
+            <Button Name="readPpmBtn"
+                    Grid.Column="7"
+                    Style="{StaticResource MenuButton}"
+                    Click="read_ppm_Click">Load PPM</Button>
+            <Button Name="writePpmBtn"
+                    Grid.Column="8"
+                    Style="{StaticResource MenuButton}"
+                    Click="write_ppm_Click">Save PPM</Button>
+            
+        </Grid>
+
+        <Canvas Name="canvasBoard" 
+                Grid.Row="1" 
+                Background="Transparent"
+                MouseLeftButtonDown="InitEventOnCanvas"
+                MouseMove="ProcessingEventOnCanvas"
+                MouseLeftButtonUp="EndEventOnCanvas" 
+                Panel.ZIndex="0">
+        </Canvas>
+
+    </Grid>
+</Window>
